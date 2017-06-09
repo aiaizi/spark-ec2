@@ -1,0 +1,7 @@
+#1
+Bug:		Support for Java 7 is deprecated as of Spark 2.0.0
+Solution:	Let all node run Java 8; may change ami
+
+#2 (Fixed)
+Bug:		SPARK_WORKER_INSTANCES was detected (set to '1'). This is deprecated in Spark 1.0+.
+Solution:	?
